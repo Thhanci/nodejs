@@ -7,3 +7,36 @@
 >[索引 |Node.js v26.4.0 文档](https://nodejs.org/docs/latest/api/)
 >
 >
+
+
+
+
+
+
+
+>
+>
+>npm install express
+>
+>npm install -g cnpm --registry=https://registry.npm.taobao.org
+>
+>npm install adm-zip
+>npm install -D unplugin-vue-components unplugin-auto-import
+
+
+
+
+
+>
+>
+>npm init  (package.json)
+>
+>cnpm install --save express
+>
+>cnpm install --save-dev gulp
+
+
+
+>npm install -g nodemon
+>
+>
